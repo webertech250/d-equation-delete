@@ -8,7 +8,7 @@ To request deletion of your account and all associated data:
 **Data that will be deleted:**
 - Account information (name, email, phone number)
 - Listings you created in the app
-- Messages and other personal content
+- Other personal content
 
 **Data that may be retained:**
 - Anonymous analytics for app performance
